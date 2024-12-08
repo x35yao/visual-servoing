@@ -1,4 +1,4 @@
-name: rvc3
+name: RVC3
 channels:
   - defaults
   - conda-forge
@@ -263,4 +263,4 @@ dependencies:
       - werkzeug==3.0.6
       - widgetsnbextension==4.0.13
       - zipp==3.20.2
-prefix: C:\Users\xyao0\anaconda3\envs\rvc3
+prefix: C:\Users\xyao0\anaconda3\envs\RVC3
